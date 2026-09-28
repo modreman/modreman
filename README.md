@@ -25,7 +25,7 @@
 
 ###  Donald en el Mágico Mundo de las Matemáticas:
 Fragmento de la película "Donald en el País de las Matemáticas" (Walt Disney). Proporción áurea (Rectángulo de oro)
-<br/ :https:/(https://www.youtube.com/watch?v=SUSyRUkFKHY) <br/>
+https:/(https://www.youtube.com/watch?v=SUSyRUkFKHY) <br/>
 
 [![Ver el video](https://img.youtube.com/vi/SUSyRUkFKHY/0.jpg))](https://www.youtube.com/watch?v=SUSyRUkFKHY)
 
