@@ -18,5 +18,5 @@
 ### 💻 Software y Visualización
 
 - [Python]
-- ![Octave]
+- [Octave]
 - [LaTeX]
