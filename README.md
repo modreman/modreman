@@ -18,5 +18,5 @@ Mathematics teacher specializing in:
 ### 💻 Software y Visualización
 
 - [Python]
-- ![Octave](https://shields.io)
+- ![Octave]
 - [LaTeX]
