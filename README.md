@@ -7,7 +7,11 @@
 - 📫 Reach me on [GitHub](https://github.com/modreman).
 - 😄 Pronouns: he/him
 
+- Differential Calculus: 📈 (Derivatives/Slopes), 📉 (Optimization), 🎯 (Limits/Approximation).
+- Integral Calculus: 🧮 (Riemann Sums/Areas), ⏳ (Accumulation), 🔄 (Solids of Revolution).
+- Multivariable Calculus: 🌐 (Vectors/3D Space), 🗺️ (Planes/Surfaces), 🌀 (Gradient/Curl).
 
-Cálculo Diferencial: 📈 (Derivadas/Pendientes),📉 (Optimización), 🎯 (Límites/Aproximación).
-Cálculo Integral: 🧮 (Sumas de Riemann/Áreas), ⏳ (Acumulación), 🔄 (Sólidos de revolución).
-Multivariable: 🌐 (Vectores/Espacio 3D), 🗺️ (Planos/Superficies), 🌀 (Gradiente/Rotacional).
+
+- Cálculo Diferencial: 📈 (Derivadas/Pendientes),📉 (Optimización), 🎯 (Límites/Aproximación).
+- Cálculo Integral: 🧮 (Sumas de Riemann/Áreas), ⏳ (Acumulación), 🔄 (Sólidos de revolución).
+- Multivariable: 🌐 (Vectores/Espacio 3D), 🗺️ (Planos/Superficies), 🌀 (Gradiente/Rotacional).
