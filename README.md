@@ -11,4 +11,7 @@ Mathematics teacher specializing in:
 - Differential Calculus: 📈 (Derivatives/Slopes), 📉 (Optimization), 🎯 (Limits/Approximation).
 - Integral Calculus: 🧮 (Riemann Sums/Areas), ⏳ (Accumulation), 🔄 (Solids of Revolution).
 - Multivariable Calculus: 🌐 (Vectors/3D Space), 🗺️ (Planes/Surfaces), 🌀 (Gradient/Curl).
+- Mathematical Models: 🔬 (Formulations/Simulations)
+- Differential Equations: ⚙️ (Rate of Change/Dynamical Systems)
+- Complex Numbers: 🗺️ (Complex Plane/Imaginary Axes)
 
