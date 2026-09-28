@@ -24,7 +24,8 @@
 - [LaTeX]
 
 ###  Donald en el Mágico Mundo de las Matemáticas:
-:https://www.youtube.com/watch?v=k-EGdsOzoD0 <br/>
+Fragmento de la película "Donald en el País de las Matemáticas" (Walt Disney)
+:https:/(https://www.youtube.com/watch?v=SUSyRUkFKHY) <br/>
 
-[![Ver el video](https://img.youtube.com/vi/k-EGdsOzoD0/0.jpg))](https://www.youtube.com/watch?v=k-EGdsOzoD0)
+[![Ver el video](https://img.youtube.com/vi/SUSyRUkFKHY/0.jpg))](https://www.youtube.com/watch?v=SUSyRUkFKHY)
 
