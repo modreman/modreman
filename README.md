@@ -7,7 +7,7 @@
 - 📫 Reach me on [GitHub](https://github.com/modreman).
 - 😄 Pronouns: he/him
 - 
-👨‍🏫 Mathematics teacher specializing in:
+### 👨‍🏫 Mathematics teacher specializing in
 - Differential Calculus: 📈 (Derivatives/Slopes), 📉 (Optimization), 🎯 (Limits/Approximation).
 - Integral Calculus: 🧮 (Riemann Sums/Areas), ⏳ (Accumulation), 🔄 (Solids of Revolution).
 - Multivariable Calculus: 🌐 (Vectors/3D Space), 🗺️ (Planes/Surfaces), 🌀 (Gradient/Curl).
