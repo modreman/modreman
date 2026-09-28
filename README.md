@@ -25,8 +25,4 @@
 
 ###  Donald en el Mágico Mundo de las Matemáticas
 [![Ver el video](https://youtube.com)](https://www.youtube.com/watch?v=k-EGdsOzoD0)
-<p align="center">
-  <a href="https://youtube.com">
-    <img src="[https://youtube.com](https://www.youtube.com/watch?v=k-EGdsOzoD0)" alt="Ver video" width="400">
-  </a>
-</p>
+
