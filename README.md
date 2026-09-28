@@ -15,3 +15,8 @@ Mathematics teacher specializing in:
 - Differential Equations: ⚙️ (Rate of Change/Dynamical Systems)
 - Complex Numbers: 🗺️ (Complex Plane/Imaginary Axes)
 
+### 💻 Software y Visualización
+
+![Python](https://shields.io) 
+![MATLAB](https://shields.io)
+![LaTeX](https://shields.io)
