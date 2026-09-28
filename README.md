@@ -14,6 +14,7 @@
 - Mathematical Models: 🔬 (Formulations/Simulations)
 - Differential Equations: ⚙️ (Rate of Change/Dynamical Systems)
 - Complex Numbers: 🗺️ (Complex Plane/Imaginary Axes)
+- Numerical Methods: 🤖 (Algorithms/Approximation), 🎯 (Convergence/Roots), 📉 (Curve Fitting/Interpolation)🤖 / 💻 (Algorithms / Simulation)🎯 (Convergence / Roots)📉 (Curve Fitting / Interpolation)🔢 / 📐 (Discretization / Error Analysis)🔄 (Iteration / Numerical Integration)
 
 ### 💻 Software y Visualización
 
