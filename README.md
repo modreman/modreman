@@ -17,6 +17,6 @@ Mathematics teacher specializing in:
 
 ### 💻 Software y Visualización
 
-![Python](https://shields.io) 
-![MATLAB](https://shields.io)
-![LaTeX](https://shields.io)
+- [Python]
+- [OCTAVE]
+- [LaTeX]
