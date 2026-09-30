@@ -21,7 +21,7 @@
 
 - 🐍 [Python]
 - 💻 [Octave]
--     [LaTeX]
+- ✒️ [LaTeX]
 
 ###  Donald en el Mágico Mundo de las Matemáticas:
 Fragmento de la película "Donald en el País de las Matemáticas" (Walt Disney). Proporción áurea (Rectángulo de oro)
