@@ -27,7 +27,7 @@
 Fragmento de la película "Donald en el País de las Matemáticas" (Walt Disney). Proporción áurea (Rectángulo de oro)
 https:/(https://www.youtube.com/watch?v=SUSyRUkFKHY) <br/>
 
-[![Ver el video](https://img.youtube.com/vi/SUSyRUkFKHY/0.jpg))](https://www.youtube.com/watch?v=SUSyRUkFKHY)
+<!-- [![Ver el video](https://img.youtube.com/vi/SUSyRUkFKHY/0.jpg))](https://www.youtube.com/watch?v=SUSyRUkFKHY)
 
 <a href="https://www.youtube.com/watch?v=SUSyRUkFKHY">
   <img src="https://img.youtube.com/vi/SUSyRUkFKHY/0.jpg" alt="Ver el video" width="200">
