@@ -1,11 +1,12 @@
 ## About 
 
-- 👋 I’m [@modreman](https://github.com/modreman).
+- 🎓 I’m Mathematics teacher
 - 👀 I’m interested in education, mathematics, and web development
-- 🌱 I’m currently learning latex, python, octave.
+- 📚 I’m currently learning latex, python, octave.
 - 👯 I’m looking to collaborate on mathematics projects, mathematics education for engineering students
-- 📫 Reach me on [GitHub](https://github.com/modreman).
-- 😄 Pronouns: he/him
+- 🔧 Exploring Git & GitHub
+  
+  
 - 
 ### 👨‍🏫 Mathematics teacher specializing in
 - Differential Calculus: 📈 (Derivatives/Slopes), 📉 (Optimization), 🎯 (Limits/Approximation).
