@@ -17,7 +17,7 @@
 - Complex Numbers: 🗺️ (Complex Plane/Imaginary Axes)
 
 
-### 💻 Software y Visualización
+### 💻 Software
 
 - 🐍 [Python]
 - 💻 [Octave]
