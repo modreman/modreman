@@ -2,7 +2,7 @@
 
 - 🎓 I’m Mathematics teacher
 - 👀 I’m interested in education, mathematics, and web development
-- 📚 I’m currently learning latex, python, octave.
+- 📚 I’m currently learning latex, python and  octave.
 - 👯 I’m looking to collaborate on mathematics projects, mathematics education for engineering students
 - 🔧 Exploring Git & GitHub
   
@@ -20,9 +20,9 @@
 
 ### 💻 Software y Visualización
 
-- [Python]
-- [Octave]
-- [LaTeX]
+- 🐍 [Python]
+- 💻 [Octave]
+-     [LaTeX]
 
 ###  Donald en el Mágico Mundo de las Matemáticas:
 Fragmento de la película "Donald en el País de las Matemáticas" (Walt Disney). Proporción áurea (Rectángulo de oro)
