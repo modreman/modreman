@@ -1,4 +1,4 @@
-## About 
+## About Me
 
 - 🎓 I’m Mathematics teacher
 - 👀 I’m interested in education, mathematics, and web development
@@ -7,7 +7,6 @@
 - 🔧 Exploring Git & GitHub
   
   
-- 
 ### 👨‍🏫 Mathematics teacher specializing in
 - Differential Calculus: 📈 (Derivatives/Slopes), 📉 (Optimization), 🎯 (Limits/Approximation).
 - Integral Calculus: 🧮 (Riemann Sums/Areas), ⏳ (Accumulation), 🔄 (Solids of Revolution).
