@@ -1,6 +1,6 @@
 ## About Me
 
-- 🎓 I’m Mathematics teacher
+- 🎓 I’m Mathematics teacher.
 - 👀 I’m interested in education, mathematics, and web development
 - 📚 I’m currently learning latex, python and  octave.
 - 👯 I’m looking to collaborate on mathematics projects, mathematics education for engineering students
