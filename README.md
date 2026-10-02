@@ -19,8 +19,7 @@
 
 ### 💻 Software
 
-- 🐍 [Python] <img width="269" height="326" alt="image" src="https://github.com/user-attachments/assets/6f0d6fe4-0c70-40ef-af4c-019f7afbc469" />
-
+- 🐍 [Python] 
 - 💻 [Octave]
 - ✒️ [LaTeX]
 
